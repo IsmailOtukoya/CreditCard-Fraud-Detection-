@@ -1,4 +1,5 @@
 # CreditCard-Fraud-Detection-
+
 Overview
 This project implements a fraud detection model to identify and address fraudulent activities in financial transactions. The model employs a combination of traditional machine learning algorithms and deep learning techniques, forming an ensemble to harness the strengths of individual models.
 
